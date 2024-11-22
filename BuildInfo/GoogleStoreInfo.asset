@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e962810af87475045a695f1d3bd66856, type: 3}
+  m_Name: GoogleStoreInfo
+  m_EditorClassIdentifier: 
+  appName: "\uC11C\uBA38\uB108\uC988 \uB9C8\uC2A4\uD130"
+  package: com.beatrain.smaster
+  version: 0.21
+  bundleVersion: 21
+  publicKey: 
+  admobID: ca-app-pub-9429808070250988~3951154466
+  admobKeyMain: ca-app-pub-9429808070250988
+  adRewardKey:
+  - 1150010542
+  - 1756121999
+  icons:
+  - {fileID: 2800000, guid: 9464b1651a9059b44a16838b44fb6d3b, type: 3}
+  - {fileID: 2800000, guid: 9464b1651a9059b44a16838b44fb6d3b, type: 3}
+  - {fileID: 2800000, guid: 9464b1651a9059b44a16838b44fb6d3b, type: 3}
+  - {fileID: 2800000, guid: 9464b1651a9059b44a16838b44fb6d3b, type: 3}

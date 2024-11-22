@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e962810af87475045a695f1d3bd66856, type: 3}
+  m_Name: OneStoreInfo
+  m_EditorClassIdentifier: 
+  appName: "\uC11C\uBA38\uB108\uC988 \uB9C8\uC2A4\uD130"
+  package: com.beatrain.smaster.local
+  version: 0.12
+  bundleVersion: 21
+  publicKey: MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCPBQIij6/UiVFWI2uoKgXlUFG6W8AmnlgXrjQ6T36Wbj6rQCfsK8xNlI2dcxVSAtgQD0wkyNc8VkIpWH7hvOPFLboI7IxnIEDFfJ/V6P0tHjMHyZAko4zc6nfHUs9+oe0WmC8Ps7UE6NrAYXqKF6jyF4d8/AHNUPSkCt6AhSS7iQIDAQAB
+  admobID: ca-app-pub-9429808070250988~1094960211
+  admobKeyMain: ca-app-pub-9429808070250988
+  adRewardKey:
+  - 4435439429
+  - 7057733333
+  icons:
+  - {fileID: 2800000, guid: 225beb39e5eff5c4cadcc051250c6d65, type: 3}
+  - {fileID: 2800000, guid: 225beb39e5eff5c4cadcc051250c6d65, type: 3}
+  - {fileID: 2800000, guid: 225beb39e5eff5c4cadcc051250c6d65, type: 3}
+  - {fileID: 2800000, guid: 225beb39e5eff5c4cadcc051250c6d65, type: 3}
